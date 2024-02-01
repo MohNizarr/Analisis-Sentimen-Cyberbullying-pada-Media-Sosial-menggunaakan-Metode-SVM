@@ -1,1 +1,1 @@
-# Analisis-Sentimen-Cyberbullying-pada-Media-Sosial-menggunaakan-Metode-SVM
+# Analisis-Sentimen-Cyberbullying-pada-Media-Sosial-menggunakan-Metode-SVM
